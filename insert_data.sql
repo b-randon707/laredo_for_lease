@@ -6,12 +6,11 @@ INSERT INTO laredo_for_lease (
     contact_email, date_added, date_removed
 )
 VALUES (
-   '837 Union Pacific Blvd', 'Milo Distribution Center', 109226, 109226, 109226, 5900,
-   50, NULL, 99, NULL, 26,
-    'ESFR', 0.78, 0.15, 0.93,
-    'Letter of intent pending', 2017, 'Concrete tilt', 'Rear loaded', 'Clint Manning', '469-608-8459', 
-    NULL, 2023/6/2, NULL
-);
-   
+ 
+    '11018 Delta Dr', 'Eastpoint Industrial Park', 120000, 77868, 77868, 7050,
+    17, 2, 55, NULL, 24,
+    NULL, NULL, NULL, NULL, 
+    'Available', 2001, 'Concrete tilt', 'Rear loaded', 'Carlo Molano', '956-523-9403', 
+    'carlom@forumcre', NULL, NULL
 
-
+)
