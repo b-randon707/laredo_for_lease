@@ -28,3 +28,4 @@ VALUES (
     'none', 1.15, NULL, NULL, 
     'Available', 1993, 'Concrete tilt', 'Rear loaded', 'Tano Carranza', '956-724-7141', 
     'tcarranza@killamco.com', '4/11/24', NULL
+); 
